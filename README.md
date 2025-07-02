@@ -5,18 +5,18 @@
    PT Kereta Api Indonesia menyediakan data perjalanan kereta yang dapat dimanfaatkan untuk menganalisis dan memprediksi pola rute.
    Permasalahan yang diangkat adalah bagaimana memprediksi **stasiun tujuan** berdasarkan **stasiun awal** menggunakan algoritma machine learning.
 
-  **Tujuan:**
-  - Membangun model klasifikasi menggunakan Naive Bayes.
-  - Mengevaluasi model dengan akurasi dan metrik evaluasi lainnya.
-  - Menyajikan analisis jaringan koneksi antar stasiun.
-  
-  **Alur Penyelesaian:**
-  1. Load Dataset
-  2. Preprocessing (Encoding)
-  3. Split Data
-  4. Model Training (Naive Bayes)
-  5. Evaluasi
-  6. Visualisasi Jaringan
+     **Tujuan:**
+     - Membangun model klasifikasi menggunakan Naive Bayes.
+     - Mengevaluasi model dengan akurasi dan metrik evaluasi lainnya.
+     - Menyajikan analisis jaringan koneksi antar stasiun.
+     
+     **Alur Penyelesaian:**
+     1. Load Dataset
+     2. Preprocessing (Encoding)
+     3. Split Data
+     4. Model Training (Naive Bayes)
+     5. Evaluasi
+     6. Visualisasi Jaringan
 
 3. Dataset, EDA, dan Preprocessing
    Dataset: `daop1_fix.csv`  
